@@ -1,3 +1,5 @@
 # aws-vue-amplify
 
-Test integration of AWS.Cognito with VueJs, mostly done by https://github.com/aws-samples/aws-amplify-vue :)
+Sample integration of AWS.Cognito with VueJs. 
+
+Done by using https://github.com/aws-samples/aws-amplify-vue
