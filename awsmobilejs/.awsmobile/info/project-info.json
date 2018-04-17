@@ -1,0 +1,19 @@
+{
+	"ProjectName": "my-project",
+	"ProjectPath": "E:\\svn\\amplify-aws-vue\\my-project",
+	"InitializationTime": "2018-04-15-15-47-19",
+	"LastConfigurationTime": "2018-04-15-15-42-57",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendLastSyncTime": "2018-04-17-09-06-54",
+	"BackendLastBuildTime": "2018-04-17-09-06-46",
+	"BackendLastPushTime": "2018-04-17-09-06-48",
+	"BackendProjectID": "9cae5bbe-a96e-4d79-a7a4-7192c84129cb",
+	"BackendProjectName": "aws-vue-amplify",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/9cae5bbe-a96e-4d79-a7a4-7192c84129cb/build",
+	"BackendProjectCreationTime": "2018-04-15T13:43:23.915Z",
+	"BackendProjectLastUpdatedTime": "2018-04-17T07:08:29.993Z",
+	"Framework": "vue",
+	"BackendLastSyncToDevTime": "2018-04-17-09-06-54"
+}
